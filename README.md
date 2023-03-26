@@ -1,4 +1,4 @@
-# zkEthBridge
+# zkConfidentialBridge
 Project for ETH Global Hackathon
 
 
